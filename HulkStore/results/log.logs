@@ -1,0 +1,17 @@
+2020-02-04 19:32:36 INFO     Main:23 - files\Baseproductos.xlsx
+2020-02-04 19:32:43 INFO     Principal:125 - Producto a buscar pan
+2020-02-04 19:32:44 INFO     ExelProductEntered:59 - [pan, 3, 200, 230.0, ]
+2020-02-04 19:32:44 INFO     Principal:132 - Producto encontrado pan
+2020-02-04 19:33:38 INFO     Main:23 - files\Baseproductos.xlsx
+2020-02-04 19:33:47 INFO     Principal:125 - Producto a buscar pan
+2020-02-04 19:33:47 INFO     ExelProductEntered:59 - [pan, 3, 200, 230.0, ]
+2020-02-04 19:33:47 INFO     Principal:132 - Producto encontrado pan
+2020-02-04 20:03:39 INFO     Main:23 - files\Baseproductos.xlsx
+2020-02-04 20:20:12 INFO     Main:24 - files\Baseproductos.xlsx
+2020-02-04 20:20:18 INFO     Principal:128 - Producto a buscar pan
+2020-02-04 20:20:18 INFO     ExelProductEntered:59 - [pan, 3, 200, 230.0, ]
+2020-02-04 20:20:18 INFO     Principal:135 - Producto encontrado pan
+2020-02-04 20:20:35 ERROR    OutputProductPanel:86 - Campo Cantidad esta  vacio
+2020-02-04 20:20:45 ERROR    EnterProduct:76 - Campo Producto esta  vacio
+2020-02-04 20:20:55 ERROR    EnterProduct:76 - Campo Producto esta  vacio
+2020-02-04 22:43:39 ERROR    GetProperties:71 - No se encontró 
