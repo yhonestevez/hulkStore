@@ -31,7 +31,7 @@ public class GetProperties {
 	 */
 	private GetProperties() throws HolkStroreEception, IOException {
 
-		File file = new File("D:\\desrrollo\\workspace\\HulkStore\\resources\\properties");
+		File file = new File("resources\\properties");
 
 		InputStream fileInputStream;
 
@@ -42,7 +42,7 @@ public class GetProperties {
 
 			if (fileInputStream == null) {
 				System.out.println("este es el ");
-				throw new HolkStroreEception("No se encontró ");
+				throw new HolkStroreEception("No se encontrï¿½ ");
 
 			}
 		}
